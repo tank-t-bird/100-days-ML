@@ -1,6 +1,6 @@
 # 100 Days Of ML Code
 
-### Day 1: Friday, July 06, 2018
+## Day 1: Friday, July 06, 2018
 
 **Today's Progress**: 
 
@@ -20,3 +20,17 @@ Watched the first 3 videos on linear algebra and was excited to learn about Geom
 
 **Link to work:** [Day 001 Vectors](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day001)
 
+## Day 2: Saturday, July 07, 2018
+
+**Today's Progress**: 
+
+Watched videos 4 (Chapter 3) on linear algebra from this playlist:
+* https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+Foundever this interesting math resource in the video comments of #4:
+* https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/index.htm#
+
+**Thoughts:** 
+I modified some Processing code to visualize the vector grids transforming in space. But then I realized that the code needs to be taken much further to really match the way the grids fit in the Linear Algebra video.
+
+**Link to work:** [Day 002 Vector Transformations](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day002)

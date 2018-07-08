@@ -35,7 +35,7 @@ I modified some Processing code to visualize the vector grids transforming in sp
 
 **Link to work:** [Day 002 Vector Transformations (Processing)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day002)
 
-## Day 3: Sunday, July 08, 2018
+## Day 3: Sunday, July 08, 2018 5h
 
 **Today's Progress**: 
 
@@ -47,7 +47,9 @@ I am amazed at how visualizing these trasnformations make the concepts so clear.
 
 I also rediscovered this little treasure of a book, for all who have ever been afraid of Calculus: **"Calculus Made Easy" by Silvanus P. Thompson.**
 
-**Thoughts:** 
-Doing 1-3 hours daily feels more effective than crunching a bunch of hours and skipping a day. Not sure where the linear algebra will lead to in ML, but I am very excited to find out!! This time for code, I've revisited [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), nothing added by me, just retyped the whole thing to make these concepts sink in.
+This time for code, I've revisited [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes. So far I have Scaling and Position in.
 
-**Link to work:** Made with Unity3d 2018.1.5f1 [Day 003 Vector Multiplication (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003)
+**Thoughts:** 
+Doing 1-3 hours daily feels more effective than crunching a bunch of hours and skipping a day. Not sure where the linear algebra will lead to in ML, but I am very excited to find out!! And also, learning theory and coding takes more like 3 hours than 2... not counting any issues like a simple .gitignore thing such as forgotetting a slash...
+
+**Link to work:** Made with Unity3d 2018.1.5f1 [Day 003 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003)

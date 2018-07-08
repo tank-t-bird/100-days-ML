@@ -50,4 +50,4 @@ I also rediscovered this little treasure of a book, for all who have ever been a
 **Thoughts:** 
 Doing 1-3 hours daily feels more effective than crunching a bunch of hours and skipping a day. Not sure where the linear algebra will lead to in ML, but I am very excited to find out!! This time for code, I've revisited [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), nothing added by me, just retyped the whole thing to make these concepts sink in.
 
-**Link to work:** [Day 003 Vector Multiplication (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003)
+**Link to work:** Made with Unity3d 2018.1.5f1 [Day 003 Vector Multiplication (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003)

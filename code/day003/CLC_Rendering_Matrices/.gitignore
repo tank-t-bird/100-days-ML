@@ -12,7 +12,7 @@
 
 # Exclude rider project data
 .idea
-/Assets/Plugins/Editor/Jetbrains
+[Aa]ssets/Plugins/Editor/Jetbrains
 
 # Visual Studio 2015 cache directory
 /.vs/

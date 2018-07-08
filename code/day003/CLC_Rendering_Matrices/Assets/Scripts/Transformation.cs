@@ -1,16 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 
-public class Transformation : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-		
-	}
+public abstract class Transformation : MonoBehaviour {
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	public abstract Vector3 Apply (Vector3 point);
 }

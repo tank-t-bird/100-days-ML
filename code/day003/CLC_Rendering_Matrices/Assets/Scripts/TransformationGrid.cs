@@ -48,4 +48,23 @@ public class TransformationGrid : MonoBehaviour
 			z - (GridResolution - 1) * 0.5f
 		);
 	}
+	
+	void Update () {
+		GetComponents<Transformation>(transformations);
+		for (int i = 0, z = 0; z < GridResolution; z++) {
+			for (int y = 0; y < GridResolution; y++) {
+				for (int x = 0; x < GridResolution; x++, i++) {
+					_grid[i].localPosition = TransformPoint(x, y, z);
+				}
+			}
+		}
+	}
+	
+	Vector3 TransformPoint (int x, int y, int z) {
+		Vector3 coordinates = GetCoordinates(x, y, z);
+		for (int i = 0; i < transformations.Count; i++) {
+			coordinates = transformations[i].Apply(coordinates);
+		}
+		return coordinates;
+	}
 }

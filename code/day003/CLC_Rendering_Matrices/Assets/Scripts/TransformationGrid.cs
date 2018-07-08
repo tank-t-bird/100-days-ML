@@ -1,10 +1,12 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 public class TransformationGrid : MonoBehaviour
 {
 	public Transform Prefab;
 	public int GridResolution = 10;
 	private Transform[ ] _grid;
+	List<Transformation> transformations;
 
 	private void Awake()
 	{
@@ -20,6 +22,8 @@ public class TransformationGrid : MonoBehaviour
 					
 			}
 		}
+
+		transformations = new List<Transformation>();
 	}
 
 	private Transform CreateGridPoint(int x, int y, int z)

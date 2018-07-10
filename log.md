@@ -80,12 +80,13 @@ Reviewed yesterdays'notes and watched videos 10-12 (Chapters 7 + 8) on linear al
 * [Cross Products in the light of linear transformations](https://www.youtube.com/watch?v=eu6i7WJeinw&index=11&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Cross products Part 2](https://www.youtube.com/watch?v=BaM7OCEm3G0&t=106s)
 
-Final part of [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), struggling with homogenoues coordinates. Nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes.
+Final part of [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), struggling a bit with homogeneus coordinates. Some naming and other minor style changes from the original.
 
 **Thoughts:** 
-My math muscles are getting stronger... my head hurts a bit. But finally understood camera projections and the raltinto Matrix transformations... ah relief!
+My math muscles are getting stronger... my head hurts a bit. But finally understood camera projections and Matrix transformations... ah relief!
 
 
-**Link to work:** Try running it without the Camera Scripts in the Script GameObject and then again with the different camera scripts. We are reducing 3D to 2D with the Perspective and Orthographic Squish scripts. Also, it looks pretty. :-P
+**Link to work:** Made with Unity3d 2018.1.5f1 [Day 005 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day005)
 
-Made with Unity3d 2018.1.5f1 [Day 005 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day005)
+Try running it without the Camera Scripts in the Script GameObject and then again with the different camera scripts. We are reducing 3D to 2D with the Perspective and Orthographic Squish scripts. Also, it looks pretty. :-P
+

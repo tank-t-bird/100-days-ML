@@ -53,9 +53,9 @@ This time for code, I've revisited [Catlike Coding's Rendering (matrices) exampl
 **Thoughts:** 
 Doing 1-3 hours daily feels more effective than crunching a bunch of hours and skipping a day. Not sure where the linear algebra will lead to in ML, but I am very excited to find out!! And also, learning theory and coding takes more like 3 hours than 2... not counting any issues like a simple .gitignore thing such as forgotetting a slash...
 
-**Link to work:** Made with Unity3d 2018.1.5f1 [Day 003 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003)
+**Link to work:** Made with Unity3d 2018.1.5f1 [Day 003 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003-004)
 
-## Day 4: Monday, July 09, 2018 h
+## Day 4: Monday, July 09, 2018 2.5h
 
 **Today's Progress**: 
 
@@ -63,10 +63,27 @@ Reviewed yesterdays'notes and watched videos 8 and 9 (Chapter 6) on linear algeb
 * [Inverse Matrices, Rank, Column Space](https://www.youtube.com/watch?v=uQhTuRlWMxw&index=8&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Non-square Matrices](https://www.youtube.com/watch?v=v8VSDg_WQlA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=9)
 
-I'm still working thorugh [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), this time finishing the rotation script. Nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes.
+I'm still working through [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), this time finishing the rotation script. Nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes.
 
 **Thoughts:** 
-The Linear Algebra has made me completely understand the Matrix tutorial. Halfway through it now. I do feel like the real challenge is coming up soon, as I try to keep all these bits and pieces clear in my mind. I'm aiming for a continuos 2 hours a day, one of theory,one of code.
+The Linear Algebra has allowed me to completely understand the Matrix tutorial. Halfway through it now. I do feel like the real challenge is coming up soon, as I try to keep all these bits and pieces clear in my mind. I'm aiming for a continuous 2 hours a day, one of theory,one of code.
 
 
-**Link to work:** Made with Unity3d 2018.1.5f1 [Days 003 AND 004 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003)
+**Link to work:** Made with Unity3d 2018.1.5f1 [Days 003 AND 004 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003-004)
+
+## Day 5: Tuesday, July 10, 2018 2h
+
+**Today's Progress**: 
+
+Reviewed yesterdays'notes and watched videos 10-12 on linear algebra:
+* [Dot Products and Duality](https://www.youtube.com/watch?v=LyGKycYT2v0&index=10&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Cross Products in the light of linear transformations](https://www.youtube.com/watch?v=eu6i7WJeinw&index=11&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Cross products Part 2](https://www.youtube.com/watch?v=BaM7OCEm3G0&t=106s)
+
+Final part of [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), understanding projections. Nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes.
+
+**Thoughts:** 
+
+
+
+**Link to work:** Made with Unity3d 2018.1.5f1 [Day 005 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day005)

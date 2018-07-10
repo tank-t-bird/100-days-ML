@@ -6,7 +6,8 @@ public class TransformationGrid : MonoBehaviour
 	public Transform Prefab;
 	public int GridResolution = 10;
 	private Transform[ ] _grid;
-	List<Transformation> _transformations;
+	private List<Transformation> _transformations;
+	private Matrix4x4 _transformation;
 
 	private void Awake()
 	{
@@ -49,8 +50,9 @@ public class TransformationGrid : MonoBehaviour
 		);
 	}
 	
-	void Update () {
-		GetComponents<Transformation>(_transformations);
+	void Update ()
+	{
+		UpdateTransformation();
 		for (int i = 0, z = 0; z < GridResolution; z++) {
 			for (int y = 0; y < GridResolution; y++) {
 				for (int x = 0; x < GridResolution; x++, i++) {
@@ -59,12 +61,22 @@ public class TransformationGrid : MonoBehaviour
 			}
 		}
 	}
+
+	void UpdateTransformation()
+	{
+		GetComponents<Transformation>(_transformations);
+		if (_transformations.Count > 0)
+		{
+			_transformation = _transformations[0].Matrix;
+			for (int i = 1; i < _transformations.Count; i++)
+			{
+				_transformation = _transformations[i].Matrix * _transformation;
+			}
+		}
+	}
 	
 	Vector3 TransformPoint (int x, int y, int z) {
 		Vector3 coordinates = GetCoordinates(x, y, z);
-		for (int i = 0; i < _transformations.Count; i++) {
-			coordinates = _transformations[i].Apply(coordinates);
-		}
-		return coordinates;
+		return _transformation.MultiplyPoint(coordinates);
 	}
 }

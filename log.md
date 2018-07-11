@@ -16,7 +16,9 @@ Listened to this while setting up the log file:
 Watched the first 3 videos on linear algebra and was excited to learn about Geometric Intuition! Yes!! This is such a relief for my artist mind...
 * https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-**Thoughts:** I was going to follow Siraj's CS course, but well, why not jump straight into ML, the main reason for doing that course? If I can't manage, I'll default back to that one. Loving the Linear Algebra videos, so lucky to get a joyful reeducation, THANKS INTERNET!!!
+**Thoughts:** 
+
+I was going to follow Siraj's CS course, but well, why not jump straight into ML, the main reason for doing that course? If I can't manage, I'll default back to that one. Loving the Linear Algebra videos, so lucky to get a joyful reeducation, THANKS INTERNET!!!
 
 **Link to work:** [Day 001 Vectors (Python)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day001)
 
@@ -31,6 +33,7 @@ Found this interesting math resource in the video comments:
 * https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/index.htm#
 
 **Thoughts:** 
+
 I modified some Processing code to visualize the vector grids transforming in space. But then I realized that the code needs to be taken much further to really match the way the grids fit in the Linear Algebra video.
 
 **Link to work:** [Day 002 Vector Transformations (Processing)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day002)
@@ -51,6 +54,7 @@ I also rediscovered this little treasure of a book, for all who have ever been a
 This time for code, I've revisited [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes. So far I have Scaling and Position in.
 
 **Thoughts:** 
+
 Doing 1-3 hours daily feels more effective than crunching a bunch of hours and skipping a day. Not sure where the linear algebra will lead to in ML, but I am very excited to find out!! And also, learning theory and coding takes more like 3 hours than 2... not counting any issues like a simple .gitignore thing such as forgotetting a slash...
 
 **Link to work:** Made with Unity3d 2018.1.5f1 [Day 003 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003-004)
@@ -66,12 +70,13 @@ Reviewed yesterdays'notes and watched videos 8 and 9 (Chapter 6) on linear algeb
 I'm still working through [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), this time finishing the rotation script. Nothing added by me, just retyped the whole thing to make these concepts sink in, and did some minor style changes.
 
 **Thoughts:** 
+
 The Linear Algebra has allowed me to completely understand the Matrix tutorial. Halfway through it now. I do feel like the real challenge is coming up soon, as I try to keep all these bits and pieces clear in my mind. I'm aiming for a continuous 2 hours a day, one of theory,one of code.
 
 
 **Link to work:** Made with Unity3d 2018.1.5f1 [Days 003 AND 004 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day003-004)
 
-## Day 5: Tuesday, July 10, 2018 2h
+## Day 5: Tuesday, July 10, 2018 3h
 
 **Today's Progress**: 
 
@@ -83,10 +88,36 @@ Reviewed yesterdays'notes and watched videos 10-12 (Chapters 7 + 8) on linear al
 Final part of [Catlike Coding's Rendering (matrices) example](https://catlikecoding.com/unity/tutorials/rendering/part-1/), struggling a bit with homogeneus coordinates. Some naming and other minor style changes from the original.
 
 **Thoughts:** 
+
 My math muscles are getting stronger... my head hurts a bit. But finally understood camera projections and Matrix transformations... ah relief!
 
 
 **Link to work:** Made with Unity3d 2018.1.5f1 [Day 005 Matrix Transformations (Unity3D/C#)](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day005)
 
 Try running it without the Camera Scripts in the Script GameObject and then again with the different camera scripts. We are reducing 3D to 2D with the Perspective and Orthographic Squish scripts. Also, it looks pretty. :-P
+
+## Day 6: Wednesday, July 11, 2018 2h
+
+**Today's Progress**: 
+
+Reviewed Cross Products and watched videos 13-15 (Chapters 9 - 11) on linear algebra:
+* [Change of Basis](https://www.youtube.com/watch?v=P2LTAUO1TdA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)
+* [Eigen Vectors and Eigen Values](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
+* [Abstract Vector Spaces](https://www.youtube.com/watch?v=TgKwz5Ikpc8&index=15&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+Found these gem in the comments:
+
+https://brilliant.org/
+
+Reference to  Davyd C. Lay's Linear Algebra and Its Applications along with these exercises: http://www.slader.com/textbook/9780321385178-linear-algebra-and-its-applications-4th-edition/
+
+
+**Thoughts:** 
+
+That was enlightening... and now that the playlist is over I am a bit sad, I want to sart with teh ML stuff, but trying to pace myself, just one month of math... then 2 of ML!
+
+**Link to work:**  [Day 006 Single Neural Network](https://github.com/tank-t-bird/100-days-ML/blob/master/code/day006)
+
+Not done as it has an error still, but have to leave it for now. Also this is a very simple case, it probably doesn't work that well for all input values.
+
 

@@ -96,7 +96,7 @@ My math muscles are getting stronger... my head hurts a bit. But finally underst
 
 Try running it without the Camera Scripts in the Script GameObject and then again with the different camera scripts. We are reducing 3D to 2D with the Perspective and Orthographic Squish scripts. Also, it looks pretty. :-P
 
-## Day 6: Wednesday, July 11, 2018 2h
+## Day 6: Wednesday, July 11, 2018 2.5h
 
 **Today's Progress**: 
 
@@ -120,4 +120,24 @@ That was enlightening... and now that the playlist is over I am a bit sad, I wan
 
 Not done as it has an error still, but have to leave it for now. Also this is a very simple case, it probably doesn't work that well for all input values.
 
+## Day 7: Thursday, July 12, 2018 2h45m
 
+**Today's Progress**: 
+
+* Practiced some math fundamentals on https://brilliant.org/
+
+Got started with Calculus!
+* [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+Today's find:
+
+[8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners#gladiator)
+
+
+
+**Thoughts:** 
+
+It's important to move on and not get stuck on difficult bits. There is always a way around, or another perspective to work from, or, just taking a break can do wonders. Work smarter, not harder. "Be like water my friend". Too much of an effort that leads nowhere can be very demotivating.
+
+
+**Link to work:**  No code today, just Math.

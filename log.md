@@ -120,7 +120,7 @@ That was enlightening... and now that the playlist is over I am a bit sad, I wan
 
 Not done as it has an error still, but have to leave it for now. Also this is a very simple case, it probably doesn't work that well for all input values.
 
-## Day 7: Thursday, July 12, 2018 2h45m
+## Day 7: Thursday, July 12, 2018 3h
 
 **Today's Progress**: 
 
@@ -129,9 +129,12 @@ Not done as it has an error still, but have to leave it for now. Also this is a 
 Got started with Calculus!
 * [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-Today's find:
+Today's finds:
 
 [8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners#gladiator)
+
+And some great videos on Algebra: https://www.khanacademy.org/math/algebra
+
 
 
 

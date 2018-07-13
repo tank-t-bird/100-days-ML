@@ -135,12 +135,22 @@ Today's finds:
 
 And some great videos on Algebra: https://www.khanacademy.org/math/algebra
 
-
-
-
 **Thoughts:** 
 
 It's important to move on and not get stuck on difficult bits. There is always a way around, or another perspective to work from, or, just taking a break can do wonders. Work smarter, not harder. "Be like water my friend". Too much of an effort that leads nowhere can be very demotivating.
 
-
 **Link to work:**  No code today, just Math.
+
+# Day 8: Friday, July 13, 2018 1h
+
+**Today's Progress**: 
+
+Began watching the Calculus videos, derivatives, derivatives, derivatives. Watched the first 3.5 videos:
+* [The Essence of Calculus](https://www.youtube.com/watch?v=YG15m2VwSjA&index=4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+
+**Thoughts:** 
+
+I only had one hour today, after work, and it was much tougher to follow along than when I do these in the morning.
+
+**Link to work:**  None today.

@@ -141,7 +141,7 @@ It's important to move on and not get stuck on difficult bits. There is always a
 
 **Link to work:**  No code today, just Math.
 
-# Day 8: Friday, July 13, 2018 1h
+## Day 8: Friday, July 13, 2018 1h
 
 **Today's Progress**: 
 
@@ -152,5 +152,20 @@ Began watching the Calculus videos, derivatives, derivatives, derivatives. Watch
 **Thoughts:** 
 
 I only had one hour today, after work, and it was much tougher to follow along than when I do these in the morning.
+
+**Link to work:**  None today.
+
+## Day 9: Saturday, July 14, 2018 2h
+
+**Today's Progress**: 
+
+I reviewd the Linear Algebra videos and the first Caluculs videos. Ended at Chapter 2 of the series. I had to split the work into two separate hours today and that was ok, but I do prefer the 2-3 hour chunks of uninterrupted learning.
+
+* [The Paradox of the Derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+
+**Thoughts:** 
+
+Repetition is paramount. Each time a rewatch a video, I not only strengthen the learnings that have stayed with me, but I also find new meanings or perspectives on some aspects which I did not perceive the first time around.
 
 **Link to work:**  None today.

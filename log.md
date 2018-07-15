@@ -159,7 +159,7 @@ I only had one hour today, after work, and it was much tougher to follow along t
 
 **Today's Progress**: 
 
-I reviewd the Linear Algebra videos and the first Caluculs videos. Ended at Chapter 2 of the series. I had to split the work into two separate hours today and that was ok, but I do prefer the 2-3 hour chunks of uninterrupted learning.
+I reviewed the Linear Algebra videos and the first Calculus videos. Ended at Chapter 2 of the series. I had to split the work into two separate hours today and that was ok, but I do prefer the 2-3 hour chunks of uninterrupted learning.
 
 * [The Paradox of the Derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
@@ -169,3 +169,32 @@ I reviewd the Linear Algebra videos and the first Caluculs videos. Ended at Chap
 Repetition is paramount. Each time a rewatch a video, I not only strengthen the learnings that have stayed with me, but I also find new meanings or perspectives on some aspects which I did not perceive the first time around.
 
 **Link to work:**  None today.
+
+## Day 10: Sunday, July 15, 2018 2h
+
+**Today's Progress**: 
+
+Watching chapter 2 again, I found some shaky foundations to work on, did a bunch of exercises to stabilize them and then watched Chapter 3. I also rediscovered what was a math nightmare in my teens, the infamous "Algebra of Baldor". Much more readable all these years later..
+
+* [The Paradox of the Derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+* [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=3)
+
+* [Algebra basics on Khan Academy](https://www.khanacademy.org/math/algebra/introduction-to-algebra/overview-hist-alg/v/abstract-ness)
+
+
+**Thoughts:** 
+
+Finding weaknesses in foundations can be discouraging, because it slows down progress forward, but if we don't fix them now... then when? Comprehension of more complex concepts will be muddled by these deficiencies. To motivate myself, two quotes from the Khan Academy videos:
+
+"Philosophy is written in that great book which ever lies before our eyes-- I mean the universe-- but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written. This book is written in the mathematical language, without which one wanders in vain through a dark labyrinth."
+
+-Galileo Galilei
+
+
+"You just keep pushing. I made every mistake that could be made. But I just kept pushing.” 
+
+-Rene Descartes
+
+**Link to work:**  None today.
+

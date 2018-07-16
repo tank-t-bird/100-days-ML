@@ -174,7 +174,7 @@ Repetition is paramount. Each time a rewatch a video, I not only strengthen the 
 
 **Today's Progress**: 
 
-Watching chapter 2 again, I found some shaky foundations to work on, did a bunch of exercises to stabilize them and then watched Chapter 3. I also rediscovered what was a math nightmare in my teens, the infamous "Algebra of Baldor". Much more readable all these years later..
+Watching chapter 2 again, I found some shaky foundations to work on, did a bunch of exercises to stabilize them and then watched Chapter 3. I also rediscovered what was a math nightmare in my teens, the infamous "Algebra of Baldor". Much more readable all these years later...
 
 * [The Paradox of the Derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
@@ -198,3 +198,23 @@ Finding weaknesses in foundations can be discouraging, because it slows down pro
 
 **Link to work:**  None today.
 
+## Day 11: Monday, July 16, 2018 2h
+
+**Today's Progress**: 
+
+Reviewed chapters 3-4 and watched chapters 5-6 of the Calculus playlist.
+
+* [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ&index=3&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+* [Visualizing the chain rule and product rule | Chapter 4, Essence of calculus](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=4)
+
+* [Derivatives of exponentials | Chapter 5, Essence of calculus](https://www.youtube.com/watch?v=m2MIpDrF7Es&index=5&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+* [Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&index=6&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+
+**Thoughts:** 
+
+Getting tired of the math, but this feesl like the key to everything realted to ML, rates of change and interdependent values changing in time. So, I will keep on keeping on. 
+
+**Link to work:**  None today.

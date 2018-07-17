@@ -177,9 +177,7 @@ Repetition is paramount. Each time a rewatch a video, I not only strengthen the 
 Watching chapter 2 again, I found some shaky foundations to work on, did a bunch of exercises to stabilize them and then watched Chapter 3. I also rediscovered what was a math nightmare in my teens, the infamous "Algebra of Baldor". Much more readable all these years later...
 
 * [The Paradox of the Derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk&index=2&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 * [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=3)
-
 * [Algebra basics on Khan Academy](https://www.khanacademy.org/math/algebra/introduction-to-algebra/overview-hist-alg/v/abstract-ness)
 
 
@@ -205,16 +203,40 @@ Finding weaknesses in foundations can be discouraging, because it slows down pro
 Reviewed chapters 3-4 and watched chapters 5-6 of the Calculus playlist.
 
 * [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ&index=3&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 * [Visualizing the chain rule and product rule | Chapter 4, Essence of calculus](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=4)
-
 * [Derivatives of exponentials | Chapter 5, Essence of calculus](https://www.youtube.com/watch?v=m2MIpDrF7Es&index=5&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 * [Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&index=6&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 
 **Thoughts:** 
 
 Getting tired of the math, but this feesl like the key to everything realted to ML, rates of change and interdependent values changing in time. So, I will keep on keeping on. 
+
+**Link to work:**  None today.
+
+## Day 12: Tuesday, July 17, 2018 2h
+
+**Today's Progress**: 
+
+I received some new ML links from a colleague which look really interesting. I read through some of the documentation for the first one and tried the online samples (ML5).
+
+* [ML5](https://ml5js.org/)
+* [Machine Learning for Artists](https://github.com/ml4a/ml4a-guides/tree/experimental/tools)
+* [Artists and Machine Intelligence](https://ami.withgoogle.com/)
+
+And I reviewed chapter 6 and watched chapters 7-8 of the Calculus playlist. 
+
+* [Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&index=6&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Limits | Chapter 7](https://www.youtube.com/watch?v=kfF40MiS7zA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=7)
+* [Integration and the fundamental theorem of calculus | Chapter 8](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8)
+
+Also, 3b1b has an open source repository for their Math Animations built in python, which I hope to play with at some point:
+* [3b1b Manim Animation Engine](https://github.com/3b1b/manim)
+
+**Thoughts:** 
+
+Even though I might not be using the math much, I am loving it, it is giving me the confidence to go beyond reusing existing models. but there is much to try out with the existing ones!
+
+A quote to think about: "One should never try to prove anything that is not almost obvious" - Alexander Grothendieck (clearly this refers to math proofs, but stilll...).
 
 **Link to work:**  None today.

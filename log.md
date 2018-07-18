@@ -240,3 +240,19 @@ Even though I might not be using the math much, I am loving it, it is giving me 
 A quote to think about: "One should never try to prove anything that is not almost obvious" - Alexander Grothendieck (clearly this refers to math proofs, but stilll...).
 
 **Link to work:**  None today.
+
+## Day 13: Wednesday, July 18, 2018 45m
+
+**Today's Progress**: 
+
+Less time for this today because I am working on a presentation for tomorrow about VR, but still managed to watch 2.5 videos...
+
+* [What does area have to do with slope? | Chapter 9, Essence of calculus](https://www.youtube.com/watch?v=FnJqaIESC2s&index=9&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Higher order derivatives | Footnote, Essence of calculus](https://www.youtube.com/watch?v=BLkz5LGWihw&index=10&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [Taylor series | Chapter 10, Essence of calculus](https://www.youtube.com/watch?v=3d6DsjIBzJ4&index=11&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+**Thoughts:** 
+
+A little bit of progress is better than none. 
+
+**Link to work:**  None today.

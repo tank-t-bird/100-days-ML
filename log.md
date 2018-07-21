@@ -256,3 +256,20 @@ Less time for this today because I am working on a presentation for tomorrow abo
 A little bit of progress is better than none. 
 
 **Link to work:**  None today.
+
+## Days 14-15: Friday-Saturday, July 20-21, 2018 2h (skipped Thursday)
+
+**Today's Progress**: 
+
+Had to skip Thursday's learning due to the event, but finished the Calculus series yesterday and started on Probability today, Lecture 1.
+
+Ended at the second link.
+
+* [Part I: The Fundamentals, Lecture 1: Probability Models and Axioms and Lecture 1 Supplement: Mathematical Background ](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/)
+* [When does a sequence converge?](https://www.youtube.com/watch?time_continue=5&v=Lgacew5BjDI)
+
+**Thoughts:** 
+
+Restarting is harder than keeping the ball rolling... I am really appreciating the order of Siraj's topic selections, everything builds upon the previous section. It will be hard to do the whole MIT probability course in one week, but I'll be happy with doing all of part 1, the Fundamentals.
+
+**Link to work:**  None today.

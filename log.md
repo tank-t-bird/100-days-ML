@@ -261,9 +261,7 @@ A little bit of progress is better than none.
 
 **Today's Progress**: 
 
-Had to skip Thursday's learning due to the event, but finished the Calculus series yesterday and started on Probability today, Lecture 1.
-
-Ended at the second link.
+Had to skip Thursday's learning due to the event, but finished the Calculus series yesterday and started on Probability today, Lecture 1. Also, the MIT course linked to is not open yet, so I was lucky to find the contents of the course at the link below.
 
 * [Part I: The Fundamentals, Lecture 1: Probability Models and Axioms and Lecture 1 Supplement: Mathematical Background ](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/part-i-the-fundamentals/)
 * [When does a sequence converge?](https://www.youtube.com/watch?time_continue=5&v=Lgacew5BjDI)
@@ -271,5 +269,41 @@ Ended at the second link.
 **Thoughts:** 
 
 Restarting is harder than keeping the ball rolling... I am really appreciating the order of Siraj's topic selections, everything builds upon the previous section. It will be hard to do the whole MIT probability course in one week, but I'll be happy with doing all of part 1, the Fundamentals.
+
+**Link to work:**  None today.
+
+## Day 16 Sunday, July 22, 2018 2.5h 
+
+**Today's Progress**: 
+
+Struggling to balance life and study, but ysterday I managed to finish Lecture 2. Also, I found the youtube playlist link, so I can now watch at fast speed.
+
+* [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+1. L01: Probability Models and Axioms + Supplement (Mathematical Background)
+2. L02: Conditioning and Bayes Rule
+
+
+**Thoughts:** 
+
+The main difficulty has been holding the new symbols in my mind while following the concepts. Nevertheless it all makes a lot of sense. 
+
+**Link to work:**  None today.
+
+## Day 17 Monday, July 23, 2018 2h 
+
+**Today's Progress**: 
+
+Got up earlier so that I can work on other projects... 
+
+* [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+1. L03 1-10 Independence
+2. L04 1-3 Counting
+
+
+**Thoughts:** 
+
+I am realizing that I used to shy away from the kind of thinking that probability theorems resolve because I didn't know the tools... now it feels great to learn them and see thier application.
 
 **Link to work:**  None today.

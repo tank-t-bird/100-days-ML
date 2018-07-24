@@ -153,8 +153,6 @@ Began watching the Calculus videos, derivatives, derivatives, derivatives. Watch
 
 I only had one hour today, after work, and it was much tougher to follow along than when I do these in the morning.
 
-**Link to work:**  None today.
-
 ## Day 9: Saturday, July 14, 2018 2h
 
 **Today's Progress**: 
@@ -167,8 +165,6 @@ I reviewed the Linear Algebra videos and the first Calculus videos. Ended at Cha
 **Thoughts:** 
 
 Repetition is paramount. Each time a rewatch a video, I not only strengthen the learnings that have stayed with me, but I also find new meanings or perspectives on some aspects which I did not perceive the first time around.
-
-**Link to work:**  None today.
 
 ## Day 10: Sunday, July 15, 2018 2h
 
@@ -194,8 +190,6 @@ Finding weaknesses in foundations can be discouraging, because it slows down pro
 
 -Rene Descartes
 
-**Link to work:**  None today.
-
 ## Day 11: Monday, July 16, 2018 2h
 
 **Today's Progress**: 
@@ -211,8 +205,6 @@ Reviewed chapters 3-4 and watched chapters 5-6 of the Calculus playlist.
 **Thoughts:** 
 
 Getting tired of the math, but this feesl like the key to everything realted to ML, rates of change and interdependent values changing in time. So, I will keep on keeping on. 
-
-**Link to work:**  None today.
 
 ## Day 12: Tuesday, July 17, 2018 2h
 
@@ -239,8 +231,6 @@ Even though I might not be using the math much, I am loving it, it is giving me 
 
 A quote to think about: "One should never try to prove anything that is not almost obvious" - Alexander Grothendieck (clearly this refers to math proofs, but stilll...).
 
-**Link to work:**  None today.
-
 ## Day 13: Wednesday, July 18, 2018 45m
 
 **Today's Progress**: 
@@ -255,8 +245,6 @@ Less time for this today because I am working on a presentation for tomorrow abo
 
 A little bit of progress is better than none. 
 
-**Link to work:**  None today.
-
 ## Days 14-15: Friday-Saturday, July 20-21, 2018 2h (skipped Thursday)
 
 **Today's Progress**: 
@@ -270,13 +258,11 @@ Had to skip Thursday's learning due to the event, but finished the Calculus seri
 
 Restarting is harder than keeping the ball rolling... I am really appreciating the order of Siraj's topic selections, everything builds upon the previous section. It will be hard to do the whole MIT probability course in one week, but I'll be happy with doing all of part 1, the Fundamentals.
 
-**Link to work:**  None today.
-
 ## Day 16 Sunday, July 22, 2018 2.5h 
 
 **Today's Progress**: 
 
-Struggling to balance life and study, but ysterday I managed to finish Lecture 2. Also, I found the youtube playlist link, so I can now watch at fast speed.
+Struggling to balance life and study, but yesterday I managed to finish Lecture 2. Also, I found the youtube playlist link, so I can now watch at faster speeds.
 
 * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
@@ -287,8 +273,6 @@ Struggling to balance life and study, but ysterday I managed to finish Lecture 2
 **Thoughts:** 
 
 The main difficulty has been holding the new symbols in my mind while following the concepts. Nevertheless it all makes a lot of sense. 
-
-**Link to work:**  None today.
 
 ## Day 17 Monday, July 23, 2018 2h 
 
@@ -304,6 +288,18 @@ Got up earlier so that I can work on other projects...
 
 **Thoughts:** 
 
-I am realizing that I used to shy away from the kind of thinking that probability theorems resolve because I didn't know the tools... now it feels great to learn them and see thier application.
+I am realizing that I used to shy away from the kind of thinking that probability theorems resolve because I didn't know the tools... now it feels great to learn them and see their application.
 
-**Link to work:**  None today.
+## Day 18 Tuesday, July 24, 2018 2h40m
+
+**Today's Progress**: 
+
+More Probability studies
+
+* [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+1. L04 4-9 Counting
+2. L05 1-9 Discrete Random Variables Part I
+
+**Thoughts:** 
+I'm starting to think that this course is meant to be done full-time, my 2-3 hours a day are not enough to ingest all the assigned content per week... hmmm..

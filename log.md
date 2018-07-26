@@ -239,3 +239,14 @@ Probability week continues.
 2. S05 1  Supplement:Functions
 3. L06 1-8 Discrete Random Variables Part II
 
+## Day 20 Thursday, July 26, 2018 2h
+
+Probability week... only a few more days to absorb it all! Super interesting topics!
+
+* [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+1. L07 1-8 Discrete Random Variables Part III
+2. S07 1-3 Supplement
+3. L08 1 Continuos Random Variables Part I
+
+

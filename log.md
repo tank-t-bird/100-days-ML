@@ -202,8 +202,8 @@ Struggling to balance life and study, but yesterday I managed to finish Lecture 
 
 * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
-1. L01: Probability Models and Axioms + Supplement (Mathematical Background)
-2. L02: Conditioning and Bayes Rule
+    1. L01: Probability Models and Axioms + Supplement (Mathematical Background)
+    2. L02: Conditioning and Bayes Rule
 
 The main difficulty has been holding the new symbols in my mind while following the concepts. Nevertheless it all makes a lot of sense. 
 
@@ -213,8 +213,8 @@ Got up earlier so that I can work on other projects...
 
 * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
-1. L03 1-10 Independence
-2. L04 1-3 Counting
+    1. L03 1-10 Independence
+    2. L04 1-3 Counting
 
 I am realizing that I used to shy away from the kind of thinking that probability theorems resolve because I didn't know the tools... now it feels great to learn them and see their application.
 
@@ -224,8 +224,8 @@ More Probability studies
 
 * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
-1. L04 4-9 Counting
-2. L05 1-9 Discrete Random Variables Part I
+    1. L04 4-9 Counting
+    2. L05 1-9 Discrete Random Variables Part I
 
 I'm starting to think that this course is meant to be done full-time, my 2-3 hours a day are not enough to ingest all the assigned content per week... hmmm..
 
@@ -235,18 +235,29 @@ Probability week continues.
 
 * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
-1. L05 10-11 Discrete Random Variables Part I
-2. S05 1  Supplement:Functions
-3. L06 1-8 Discrete Random Variables Part II
+    1. L05 10-11 Discrete Random Variables Part I
+    2. S05 1  Supplement:Functions
+    3. L06 1-8 Discrete Random Variables Part II
 
-## Day 20 Thursday, July 26, 2018 2h
+## Day 20 Thursday, July 26, 2018 1h45m
 
-Probability week... only a few more days to absorb it all! Super interesting topics!
+Probability week... too many interesting topics for shuc a short time. I will continue studying this topic while I also begin teh algorithm section tomorrow.
 
 * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
-1. L07 1-8 Discrete Random Variables Part III
-2. S07 1-3 Supplement
-3. L08 1 Continuos Random Variables Part I
+    1. L07 1-8 Discrete Random Variables Part III
+    2. S07 1-3 Supplement
+    3. L08 1 Continuos Random Variables Part I
 
+## Day 21 Friday, July 27, 2018 2h
+
+Started Week 4, Algorithms, while continuing with the Probability course (split into two hours for now)
+
+* [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+    1. L08 1-7 Continuous Random Variables Part I
+
+* [PennX: SD3x Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
+
+    1. Week 1 - Basic Algorithm Design and Data Structures (Incremental Algorithm Design)
 

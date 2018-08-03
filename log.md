@@ -261,3 +261,18 @@ Started Week 4, Algorithms, while continuing with the Probability course (split 
 
     1. Week 1 - Basic Algorithm Design and Data Structures (Incremental Algorithm Design)
 
+## Day 22 Friday, August 3, 2018 1h
+
+Had to make a break for a week due to family visit and extreme heat temperatures... Trying to catch up now and discovered some new links.
+
+* [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+    1. L08 8-9 Continuous Random Variables Part I
+
+* [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+* [Implement Insert Algorythm](https://www.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert)
+
+Links of Interest:
+* [Deep Neural Networks with PyTorch - Stefan Otte](https://www.youtube.com/watch?v=_H3aw6wkCv0)
+* [PyTorch Tutorial Files](https://github.com/sotte/pytorch_tutorial)
+* [Colaboratory by google, a Jupyter Notebook in the cloud!](https://colab.research.google.com/notebooks/welcome.ipynb)

@@ -284,7 +284,7 @@ Found additional information on Combinatoris and probabilities, which helps to u
 * [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)
 
 
-## Day 23 Sunday, August 5, 2018 1.5h
+## Day 24 Sunday, August 5, 2018 1.5h
 
 Quick review.
 

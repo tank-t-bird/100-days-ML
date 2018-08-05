@@ -261,7 +261,7 @@ Started Week 4, Algorithms, while continuing with the Probability course (split 
 
     1. Week 1 - Basic Algorithm Design and Data Structures (Incremental Algorithm Design)
 
-## Day 22 Friday, August 3, 2018 1h
+## Day 22 Friday, August 3, 2018 2h
 
 Had to make a break for a week due to family visit and extreme heat temperatures... Trying to catch up now and discovered some new links.
 
@@ -276,3 +276,16 @@ Links of Interest:
 * [Deep Neural Networks with PyTorch - Stefan Otte](https://www.youtube.com/watch?v=_H3aw6wkCv0)
 * [PyTorch Tutorial Files](https://github.com/sotte/pytorch_tutorial)
 * [Colaboratory by google, a Jupyter Notebook in the cloud!](https://colab.research.google.com/notebooks/welcome.ipynb)
+
+## Day 23 Saturday, August 4, 2018 1h
+
+Found additional information on Combinatoris and probabilities, which helps to understand algorithms, so doing these today.
+
+* [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)
+
+
+## Day 23 Saturday, August 4, 2018 1.5h
+
+Quick review.
+
+* [Statistics](https://www.khanacademy.org/math/ap-statistics)

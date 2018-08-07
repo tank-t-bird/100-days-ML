@@ -284,8 +284,22 @@ Found additional information on Combinatoris and probabilities, which helps to u
 * [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)
 
 
-## Day 24 Sunday, August 5, 2018 1.5h
+## Day 24 Sunday, August 5, 2018 3h
 
-Quick review.
+Review.
 
 * [Statistics](https://www.khanacademy.org/math/ap-statistics)
+
+## Day 25 Monday, August 6, 2018 
+
+Review.
+
+* [Statistics](https://www.khanacademy.org/math/ap-statistics)
+
+## Day 26 Tuesday, August 7, 2018 
+
+Algorithms amd probability review
+
+* [Introduction to Algorithms at Udacity](https://classroom.udacity.com/courses/cs215)
+
+* [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)

@@ -303,3 +303,27 @@ Algorithms amd probability review
 * [Introduction to Algorithms at Udacity](https://classroom.udacity.com/courses/cs215)
 
 * [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)
+
+## Days 27-30 Wednesday-Friday, August 8-10, 2018 1h/d
+
+Daiy math review, probability, and permutations.
+
+## Day 31 Saturday, August 11, 2018 2h
+
+I broke my routine and was mostly studying math during whatever time breaks I found for the past 3 days, not so great. Trying to catch up... jumping into code again finally.
+
+Python Introduction
+
+* [Introduction - Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  
+Challenge:
+1. Use any 3 SciKit-Learn Models on this dataset
+2. Compare results
+3. Print the best one
+  [llSourcell/gender_classification_challenge](https://github.com/llSourcell/gender_classification_challenge)
+  [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+  [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+Program files: day031
+
+Conclusion: If you setup a routine, protect it! It's easy to slip back into previous habits.

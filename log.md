@@ -324,6 +324,6 @@ Challenge:
   [An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
   [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
-Program files: day031
+Link to work: [day031](https://github.com/tank-t-bird/100-days-ML/tree/master/code/day031)
 
 Conclusion: If you setup a routine, protect it! It's easy to slip back into previous habits.

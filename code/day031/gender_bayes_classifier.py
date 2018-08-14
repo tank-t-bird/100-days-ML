@@ -1,4 +1,7 @@
-from sklearn.naive_bayes import GaussianNB
+# from https://github.com/chribsen/simple-machine-learning-examples/blob/master/very_simple_examples/decision_tree.py
+# by Christian Danielsen
+
+cfrom sklearn.naive_bayes import GaussianNB
 
 
 gnb = GaussianNB()

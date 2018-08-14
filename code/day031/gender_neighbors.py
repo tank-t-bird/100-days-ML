@@ -1,3 +1,6 @@
+# from https://github.com/chribsen/simple-machine-learning-examples/blob/master/very_simple_examples/decision_tree.py
+# by Christian Danielsen
+
 from sklearn.neighbors import KNeighborsClassifier
 
 neigh = KNeighborsClassifier(n_neighbors=3)

@@ -328,7 +328,7 @@ Link to work: [day031](https://github.com/tank-t-bird/100-days-ML/tree/master/co
 
 Conclusion: If you setup a routine, protect it! It's easy to slip back into previous habits.
 
-## Day 32 Monday, August 13, 2018 2h
+## Day 32 August 13, 2018 2h
 
 Had a very packed day yesterday, no ML studies as I had to catch up on C# and Unity. 
 
@@ -357,4 +357,11 @@ Some textblob commands:
 * wiki.sentiment.polarity
   
   ### Challenge:
-  * Create a labeled tweet dataset in CSV format
+  * Create a labeled tweet dataset in CSV format, label each tweet as either 'positive' or 'negative', depending on the sentiment 
+You can decide the sentiment polarity threshold yourself
+
+## Day 33 August 14, 2018 1.5h
+
+Continued working on the code from yesterday, getting familiar with python syntax
+
+Link to work: [days032-033](https://github.com/tank-t-bird/100-days-ML/tree/master/code/day032-033)

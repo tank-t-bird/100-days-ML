@@ -365,3 +365,5 @@ You can decide the sentiment polarity threshold yourself
 Continued working on the code from yesterday, getting familiar with python syntax
 
 Link to work: [days032-033](https://github.com/tank-t-bird/100-days-ML/tree/master/code/day032-033)
+
+New dataset: https://www.ncdc.noaa.gov/cdo-web/datasets#GHCND

@@ -327,3 +327,34 @@ Challenge:
 Link to work: [day031](https://github.com/tank-t-bird/100-days-ML/tree/master/code/day031)
 
 Conclusion: If you setup a routine, protect it! It's easy to slip back into previous habits.
+
+## Day 32 Monday, August 13, 2018 2h
+
+Had a very packed day yesterday, no ML studies as I had to catch up on C# and Unity. 
+
+Today: Sentiment analysis, tokenization, bag of words, sentiment lexicon... API, twitter! 
+
+[Twitter sentiment analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA&index=2&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+Using these python dependencies: tweepy and textblob
+
+Note: textblob should be installed like this :
+
+* Python2:
+$ pip install -U textblob
+$ python -m textblob.download_corpora
+
+* Python3:
+$ pip3 install -U textblob
+$ python3 -m textblob.download_corpora
+
+Sentiment scale goes from -1 to 1
+
+Some textblob commands:
+* wiki = TexBlob("our text here")
+* wiki.tags
+* wiki.words (tokenizes)
+* wiki.sentiment.polarity
+  
+  ### Challenge:
+  * Create a labeled tweet dataset in CSV format
